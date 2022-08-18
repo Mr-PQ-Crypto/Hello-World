@@ -1,4 +1,5 @@
 # Hello-World
 This is the first repository 
-The main file here has the contents without modifications 
-after doing a branch, we are planning to do commit
+I didn't like the old words, so I am planning to add a new version 
+and test the functionality
+
